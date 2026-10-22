@@ -28,6 +28,10 @@ Available in September 2027
 
 .. _linkedin: https://www.linkedin.com/in/alexis-reynouard
 
+.. raw:: html
+
+   <a href="Alexis-Reynouard-CV.pdf"><button id="print-button">Print</button></a>
+
 
 Experience
 ==========
@@ -109,11 +113,9 @@ real-time systems.
 Education ― *Université libre de Bruxelles*
 ===========================================
 
-Ph.D. Computer Science – Formal Methods & Controller Synthesis 2019 –
-2027 (expected)
+Ph.D. Computer Science – Formal Methods & Controller Synthesis 2019 – 2027 (expected)
 
-Master in Computer Science (“Grande Distinction”/With Honors) 2017 –
-2019
+Master in Computer Science (“Grande Distinction”/With Honors) 2017 – 2019
 
 Publications
 ============
@@ -128,24 +130,28 @@ Frédéric Herbreteau, Jean-François Raskin, A. R., FSTTCS 2025.
 Interests
 =========
 
-| Automation • Classification • Technologies • Physics
-| Popularization • Education • Teaching • Pedagogy
-| Typography • Design • Photography
-| History • Cultures • Philosophy
-| Languages • Etymology
-| Walking • Cycling
+- Automation • Classification • Technologies • Physics
+- Popularization • Education • Teaching • Pedagogy
+- Typography • Design • Photography
+- History • Cultures • Philosophy
+- Languages • Etymology
+- Walking • Cycling
 
 Skills
 ======
 
-| C++ • C • Python • Linux System Administration
-| Backend Development • Containerization (Docker, Podman) • PostgreSQL /
-  SQLite / SQL
-| Performance profiling & Optimization • Automation Scripting (Bash,
-  Python)
+- C++ • C • Python • Linux System Administration
+- Backend Development • Containerization (Docker, Podman) • PostgreSQL / SQLite / SQL
+- Performance profiling & Optimization • Automation Scripting (Bash, Python)
 
-Research • Formal Verification / Formal Methods
+----
 
-Communication • Teaching • Conflict Management • Project Management
+- Research • Formal Verification / Formal Methods
 
-European First Aid Certificate
+----
+
+- Communication • Teaching • Conflict Management • Project Management
+
+----
+
+- European First Aid Certificate
