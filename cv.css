@@ -81,7 +81,7 @@ table {
 @media (prefers-color-scheme: dark) {
   :root {
     --contrast-bg: #ffffff;
-    --txt-accent-on-normal: #be9b00;
+    --txt-accent-on-normal: #6d95f6;
     --txt-on-contrast: #333333;
     --em-on-contrast: #000000;
     --normal-bg: #000000;
@@ -213,8 +213,8 @@ section h3 em:nth-child(3) {
   font-style: normal;
   float: right;
 }
-section ul:last-child li,
-section ul:last-child li p {
+section ul li,
+section ul li p {
   font-family: monospace;
   display: inline;
 }
@@ -223,7 +223,7 @@ section ul:last-child li:not(:first-child):before {
   display: inline;
 }
 section p {
-  clear: both;
+  clear: both
 }
 main p {
   margin-bottom: 1rem;
@@ -240,4 +240,47 @@ pre.code s {
   text-decoration: none;
   color: #383;
   font-weight: 600;
+}
+
+#publications em:first-of-type {
+  color: var(--txt-accent-on-normal);
+}
+
+#interests ul,
+#skills ul {
+  text-align: center;
+}
+section#interests ul li p,
+section#skills ul li p {
+  display: block;
+}
+section#interests ul li:not(:first-child):before,
+section#skills ul li:not(:first-child):before {
+  content: "";
+  display: none;
+}
+
+hr {
+  border: none;
+  width: 1ex;
+  margin: 1rem auto;
+  height: 1ex;
+  background-color: var(--contrast-bg);
+  border-radius: 0.33ex;
+}
+
+#print-button {
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  padding: 1ex 1ex 0.9ex 1ex;
+  border-radius: 3px;
+  border: 0.75px solid var(--txt-on-normal);
+  background: var(--normal-bg);
+  color: var(--txt-on-normal);
+  box-shadow: 0 2px 0 0 var(--txt-on-normal);
+}
+#print-button:hover {
+  box-shadow: inset 0 0px 0 0 var(--txt-on-normal);
+  transform: translate(0, 2px);
 }

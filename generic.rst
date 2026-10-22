@@ -120,12 +120,12 @@ Master in Computer Science (“Grande Distinction”/With Honors) 2017 – 2019
 Publications
 ============
 
-The Non-Cooperative Rational Synthesis Problem for Subgame Perfect
-Equilibria and omega-regular Objectives, Véronique Bruyère,
-Jean-François Raskin, A. R., Marie van den Bogaard, CONCUR 2025.
+*The Non-Cooperative Rational Synthesis Problem for Subgame Perfect
+Equilibria and omega-regular Objectives,* Véronique Bruyère,
+Jean-François Raskin, A. R., Marie van den Bogaard, *CONCUR 2025.*
 
-A Zone-Based Algorithm for Timed Parity Games, Gilles Geeraerts,
-Frédéric Herbreteau, Jean-François Raskin, A. R., FSTTCS 2025.
+*A Zone-Based Algorithm for Timed Parity Games,* Gilles Geeraerts,
+Frédéric Herbreteau, Jean-François Raskin, A. R., *FSTTCS 2025.*
 
 Interests
 =========
